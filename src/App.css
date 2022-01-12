@@ -1,8 +1,11 @@
 .App-header {
+  position: relative;
   background-color: #F55A5A;
   overflow: hidden;
-  padding: 30px 10px;
+  padding: 20px 20px;
   text-align: center;
+
+  
 }
 .card--main {
   padding-left: 30px;
@@ -68,4 +71,5 @@
   text-align: center;
   font-weight: bold;
   color: white;
+  display: block;
 }
