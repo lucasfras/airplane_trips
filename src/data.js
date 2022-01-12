@@ -10,7 +10,7 @@ const data = [
     },
     {
         id: 2,
-        country: "Ausutralia",
+        country: "Australia",
         img: "./images/australia.jpg",
         location: "https://goo.gl/maps/t22zfjTuxsjdwpuBA",
         place: "Sydney Opera House",
